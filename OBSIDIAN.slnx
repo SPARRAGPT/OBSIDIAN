@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OBSIDIAN/OBSIDIAN.vcxproj" Id="6b888a7d-66c5-452e-8967-cd38cdac249c" />
+</Solution>
